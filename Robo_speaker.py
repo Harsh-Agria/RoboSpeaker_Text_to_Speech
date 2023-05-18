@@ -1,20 +1,4 @@
-# import os
-# import say
-
-# if __name__ == '__main__':
-#     # os.system()
-#     print("Swagat h aapka TomSpeaker 1.0. m (Harsh dwara banaya gya)")
-#     while True:
-#         x= input("Aap kya khna chahte h likhiye: ")
-#         if x=="q":
-#             break
-#         command =f"say {x}"
-#         os.system(command)
-
-#         # Add-Type –AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('Namste');   
-
-
-
+# FOR WINDOWS->
 import os
 import win32com.client as wincom
 
